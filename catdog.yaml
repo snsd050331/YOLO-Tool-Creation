@@ -1,0 +1,7 @@
+train: data/classification/train/  # train images (relative to 'path') 118287 images
+val: data/classification/val/  # train images (relative to 'path') 5000 images
+test: data/classification/test/  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+
+# Classes
+nc: 2  # number of classes
+names: ['Cat', 'Dog']  # class names

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>images</folder>
+  <filename>(2325).jpg</filename>
+  <path>D:\呈仲\ultralytics\unlabeled_images\image\(2325).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2960</width>
+    <height>1668</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Face Mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.358173</confidence>
+    <bndbox>
+      <xmin>2345</xmin>
+      <ymin>1317</ymin>
+      <xmax>2655</xmax>
+      <ymax>1573</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.328639</confidence>
+    <bndbox>
+      <xmin>2251</xmin>
+      <ymin>1371</ymin>
+      <xmax>2522</xmax>
+      <ymax>1600</ymax>
+    </bndbox>
+  </object>
+</annotation>

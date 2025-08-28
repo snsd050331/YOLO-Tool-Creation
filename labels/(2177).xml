@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>images</folder>
+  <filename>(2177).jpg</filename>
+  <path>D:\呈仲\ultralytics\unlabeled_images\image\(2177).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2960</width>
+    <height>1668</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>People</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.610950</confidence>
+    <bndbox>
+      <xmin>1239</xmin>
+      <ymin>1260</ymin>
+      <xmax>1712</xmax>
+      <ymax>1663</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>NG-Hat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.348045</confidence>
+    <bndbox>
+      <xmin>1297</xmin>
+      <ymin>1264</ymin>
+      <xmax>1630</xmax>
+      <ymax>1580</ymax>
+    </bndbox>
+  </object>
+</annotation>

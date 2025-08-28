@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+  <folder>images</folder>
+  <filename>(2320).jpg</filename>
+  <path>D:\呈仲\ultralytics\unlabeled_images\image\(2320).jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2960</width>
+    <height>1668</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Face Mask</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.842508</confidence>
+    <bndbox>
+      <xmin>838</xmin>
+      <ymin>1166</ymin>
+      <xmax>1159</xmax>
+      <ymax>1418</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>People</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.836796</confidence>
+    <bndbox>
+      <xmin>669</xmin>
+      <ymin>1166</ymin>
+      <xmax>1157</xmax>
+      <ymax>1666</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>Hat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <confidence>0.815370</confidence>
+    <bndbox>
+      <xmin>850</xmin>
+      <ymin>1329</ymin>
+      <xmax>1115</xmax>
+      <ymax>1565</ymax>
+    </bndbox>
+  </object>
+</annotation>
