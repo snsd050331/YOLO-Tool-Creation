@@ -13,7 +13,7 @@ test.txt
 更改[classes]類別，將自己預訊練的類別寫上  
 運行過程中會顯示那些資料已經轉成YOLO txt格式
 ## data_spilt.py
-是將資料拆分比例數量[train/validation/test] => 0.7 : 0.2 : 0.1 => 可以[split_data]參數中更改  
+將資料拆分比例數量[train/validation/test] => 0.7 : 0.2 : 0.1 => 可以[split_data]參數中更改  
 source_folder是原始路徑  
 output_folder是輸出路徑  
 *主要是YOLO系列中CLS分類資料集製造需要使用的程式
