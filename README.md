@@ -18,7 +18,7 @@ source_folder是原始路徑
 output_folder是輸出路徑  
 *主要是YOLO系列中CLS分類資料集製造需要使用的程式
 ## cuttoxml.py - 輸出PASCAL VOC格式
-將訓練好的權重拿來快速預測未標註影像 => 加速標註效率、查看模型標註效果
+將訓練好的權重拿來快速預測未標註影像 => 加速標註效率、查看模型標註效果  
 python cuttoxml.py --model XXX.pt --images XXX --output XXX  
 1.images => 影像目錄或單一影像檔案路徑  
 2.output => VOC XML檔案輸出目錄  
